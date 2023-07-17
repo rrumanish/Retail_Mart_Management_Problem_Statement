@@ -1,4 +1,4 @@
-# Retail_Mart_Management_Problem_Statement
+
 # Retail Mart Management 
 
 # Problem scenario:
